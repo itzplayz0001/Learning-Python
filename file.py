@@ -17,8 +17,8 @@
 #print(text[0])
 
  #----- Formatted Strings
-#first = 'Bhavit'
-#last = 'Rao'
+#first = 'Itz'
+#last = 'PLAYZ'
 #msg = f'{first} [{last}] is a coder'
 #print(msg)
 
@@ -32,7 +32,7 @@
 # make it lower case for lower case text
 
 #----- REPLACE TEXT
-#text = 'Sunitha is a dentist'
+#text = 'Mark is a dentist'
 #print(text.replace('dentist', 'dental doc'))
 
 #-----KNOW IF A WORD EXISTS IN A SENTENCE
