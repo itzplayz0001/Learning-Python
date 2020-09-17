@@ -1,2 +1,2 @@
-# Random-python-stuff
-me revising basic python 
+# Learning Python
+Me learnig python through basic activities
