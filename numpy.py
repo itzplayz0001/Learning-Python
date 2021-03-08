@@ -23,3 +23,4 @@ print(i)
 # Multiply the array with 2 :)
 j = numpy.sort(myarray)
 print(2*myarray)
+#OUTPUT - [ 2  4  8 16  6 12]
